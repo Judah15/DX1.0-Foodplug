@@ -31,6 +31,22 @@
 
     /* About us section ends here */
 
+    /*ExploreFoods section starts here */
+    .ExploreFoods-card{
+        margin: 20px 0;
+    }
+
+
+
+    /* ExploreFoods section ends here */
+
+    /* FAQ section starts here */
+
+    .faq-items{
+        min-width: 100%;
+    } 
+    /* FAQ section ends here */
+
     /* safety measures */
     header,
     main{
